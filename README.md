@@ -1,6 +1,6 @@
 # learn-Git
 This is my first git repo
 <br>
-Author:Adarsh
+Author:Adarsh(Adarsh Samuel)
 
 
